@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the implementation of two attentive models for score aggregation weights learning. The models follow the description given in 2 papers namely [Attentive Group Recommendation]{https://github.com/LianHaiMiao/Attentive-Group-Recommendation} [Interact and Decide: Medley of Sub-Attention Networks for Effective Group Recommendation]{https://arxiv.org/abs/1804.04327v5}. 
+This is the implementation of two attentive models for score aggregation weights learning. The models follow the description given in 2 papers namely [Attentive Group Recommendation](https://github.com/LianHaiMiao/Attentive-Group-Recommendation) and [Interact and Decide: Medley of Sub-Attention Networks for Effective Group Recommendation](https://arxiv.org/abs/1804.04327v5). 
 
 ## Usage
 
